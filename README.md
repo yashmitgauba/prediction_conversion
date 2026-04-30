@@ -91,16 +91,7 @@ Implemented:
 
 ---
 
-## 📈 Results
 
-| Model               | Accuracy | AUROC |
-|--------------------|---------|-------|
-| Logistic Regression | -       | -     |
-| Random Forest       | -       | -     |
-| XGBoost             | **93.54%** | **0.986** |
-
-✅ **Best Model: XGBoost**  
-📌 Most Important Feature: **Call Duration**
 
 ---
 
