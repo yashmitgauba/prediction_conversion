@@ -1,4 +1,4 @@
-# Intelligent Conversion Prediction using Machine Learning
+# Conversion Prediction using Machine Learning
 
 ## Research Summary
 
