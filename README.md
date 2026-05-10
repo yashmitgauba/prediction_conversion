@@ -12,7 +12,7 @@ The research highlights how modern advertising systems can move beyond tradition
 
 ## Authors
 
-- Kritika Garg — 2210004905  
+- Kritika Garg — 2210004805  
 - Yashmit Gauba — 2210994863  
 - Matangini Gupta — 2210994810  
 - Rachit Singh — 2210994824  
